@@ -15,7 +15,7 @@ const Subscribe = () => {
                     Special Features!
                   </h2>
                   <p className="subtitle-1-n text-primary" style={{opacity: '0.7'}}>
-                    Let's subscribe with us and find the fun.
+                    Let&apos;s subscribe with us and find the fun.
                   </p>
                 </div>
                 <div className="button">

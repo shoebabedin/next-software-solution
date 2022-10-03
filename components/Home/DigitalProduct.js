@@ -93,7 +93,7 @@ const DigitalProduct = () => {
                       cy="297"
                       r="257"
                       fill="#F8F8F8"
-                      fill-opacity="0.53"
+                      fillOpacity="0.53"
                     />
                     <circle cx="334" cy="297" r="176" fill="#F1F1F1" />
                     <circle cx="334" cy="297" r="132" fill="#F9F9F9" />
@@ -224,7 +224,7 @@ const DigitalProduct = () => {
                           d="M426 285V323"
                           stroke="black"
                           strokeOpacity="0.07"
-                          stroke-width="0.5"
+                          strokeWidth="0.5"
                         />
                         <g opacity="0.7">
                           <path
@@ -245,7 +245,7 @@ const DigitalProduct = () => {
                           d="M493 285V323"
                           stroke="black"
                           strokeOpacity="0.07"
-                          stroke-width="0.5"
+                          strokeWidth="0.5"
                         />
                         <g opacity="0.7">
                           <path
@@ -266,7 +266,7 @@ const DigitalProduct = () => {
                           d="M560 285V323"
                           stroke="black"
                           strokeOpacity="0.07"
-                          stroke-width="0.5"
+                          strokeWidth="0.5"
                         />
                         <g opacity="0.7">
                           <path
@@ -293,10 +293,10 @@ const DigitalProduct = () => {
                         width="250"
                         height="263"
                         filterUnits="userSpaceOnUse"
-                        color-interpolation-filters="sRGB"
+                        colorInterpolationFilters="sRGB"
                       >
                         <feFlood
-                          flood-opacity="0"
+                          floodOpacity="0"
                           result="BackgroundImageFix"
                         />
                         <feColorMatrix
@@ -331,10 +331,10 @@ const DigitalProduct = () => {
                         width="340"
                         height="372"
                         filterUnits="userSpaceOnUse"
-                        color-interpolation-filters="sRGB"
+                        colorInterpolationFilters="sRGB"
                       >
                         <feFlood
-                          flood-opacity="0"
+                          floodOpacity="0"
                           result="BackgroundImageFix"
                         />
                         <feColorMatrix
@@ -369,10 +369,10 @@ const DigitalProduct = () => {
                         width="138.571"
                         height="168.797"
                         filterUnits="userSpaceOnUse"
-                        color-interpolation-filters="sRGB"
+                        colorInterpolationFilters="sRGB"
                       >
                         <feFlood
-                          flood-opacity="0"
+                          floodOpacity="0"
                           result="BackgroundImageFix"
                         />
                         <feColorMatrix
@@ -408,8 +408,8 @@ const DigitalProduct = () => {
                         y2="376"
                         gradientUnits="userSpaceOnUse"
                       >
-                        <stop offset="0.153635" stop-color="#000AFF" />
-                        <stop offset="0.671875" stop-color="#EC05B9" />
+                        <stop offset="0.153635" stopColor="#000AFF" />
+                        <stop offset="0.671875" stopColor="#EC05B9" />
                       </linearGradient>
                     </defs>
                   </svg>

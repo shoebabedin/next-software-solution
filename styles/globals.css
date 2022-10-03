@@ -508,7 +508,7 @@
   height: 100%;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: end;
   flex-direction: column;
 }
 .platform_expert .service-provide .service-provide-item .overlay h2 {

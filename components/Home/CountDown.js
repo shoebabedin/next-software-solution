@@ -24,51 +24,51 @@ const CountDown = ({ className, ...rest }) => {
                       <path
                         d="M47.25 10.5H8.75C7.7835 10.5 7 11.2835 7 12.25V38.5C7 39.4665 7.7835 40.25 8.75 40.25H47.25C48.2165 40.25 49 39.4665 49 38.5V12.25C49 11.2835 48.2165 10.5 47.25 10.5Z"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M35 40.25L42 49"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M21 40.25L14 49"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M20.125 26.25V31.5"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M28 22.75V31.5"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M35.875 19.25V31.5"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M28 10.5V5.25"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                     </svg>
                   </div>
@@ -129,58 +129,58 @@ const CountDown = ({ className, ...rest }) => {
                       <path
                         d="M3.5 47.25H52.5"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M31.5 47.25V8.75C31.5 8.28587 31.3156 7.84075 30.9874 7.51256C30.6592 7.18437 30.2141 7 29.75 7H8.75C8.28587 7 7.84075 7.18437 7.51256 7.51256C7.18437 7.84075 7 8.28587 7 8.75V47.25"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M49 47.25V22.75C49 22.2859 48.8156 21.8408 48.4874 21.5126C48.1592 21.1844 47.7141 21 47.25 21H31.5"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M14.875 15.75H21"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M17.5 29.75H23.625"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M14.875 38.5H21"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M39.375 38.5H41.125"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M39.375 29.75H41.125"
                         stroke="white"
-                        stroke-width="3"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                     </svg>
                   </div>
