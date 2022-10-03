@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "img": "/assets/images/different-part/item-1.webp",
+    "title": "Simple Budget Planning",
+    "no": "01",
+    "desc": "We have a simple Budget for our clint’s project,that’s make a maximum profit..."
+  },
+  {
+    "id": 1,
+    "img": "/assets/images/different-part/item-2.webp",
+    "title": "Savings Managements",
+    "no": "02",
+    "desc": "Particularly network business encounters for asset sucking arrangements."
+  },
+  {
+    "id": 2,
+    "img": "/assets/images/different-part/item-3.webp",
+    "title": "All-in-one Approach",
+    "no": "03",
+    "desc": "Particularly network business encounters for asset sucking arrangements."
+  }
+]

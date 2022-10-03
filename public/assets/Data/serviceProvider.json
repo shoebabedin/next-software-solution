@@ -1,0 +1,168 @@
+[
+  {
+    "id": 0,
+    "logo": "/assets/images/serviceSlider/device.png",
+    "title": "App Development",
+    "items": [
+      {
+        "icon": "/assets/images/serviceSlider/react-native.png",
+        "name": "React Native"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/flutter.png",
+        "name": "Flutter"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/kotlin.png",
+        "name": "Kotlin"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/java.png",
+        "name": "Java"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/swift.png",
+        "name": "Swift"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/ionic.png",
+        "name": "Ionic"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "logo": "/assets/images/serviceSlider/desktop.png",
+    "title": "Web Development",
+    "items": [
+      {
+        "icon": "/assets/images/serviceSlider/react-native.png",
+        "name": "PHP"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/flutter.png",
+        "name": "WordPress"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/kotlin.png",
+        "name": "Cake PHP"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/swift.png",
+        "name": "Laravel"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "logo": "/assets/images/serviceSlider/cart.png",
+    "title": "Ecommerce Development",
+    "items": [
+      {
+        "icon": "/assets/images/serviceSlider/magento.png",
+        "name": "Magento"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/bigcommerce.png",
+        "name": "Bigcommerce"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/shopify.png",
+        "name": "Shopify"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/prestashop.png",
+        "name": "Prestashop"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/woocommerce.png",
+        "name": "WooCommerce"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "logo": "/assets/images/serviceSlider/game.png",
+    "title": "Game Development",
+    "items": [
+      {
+        "icon": "/assets/images/serviceSlider/unity.png",
+        "name": "Unity 3d"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/vision-reality.png",
+        "name": "Augmented Reality"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/flutter.png",
+        "name": "Flutter"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/react-native.png",
+        "name": "React Native"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/swift.png",
+        "name": "Swift"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/kotlin.png",
+        "name": "Kotlin"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "logo": "/assets/images/serviceSlider/device.png",
+    "title": "App Development",
+    "items": [
+      {
+        "icon": "/assets/images/serviceSlider/react-native.png",
+        "name": "React Native"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/flutter.png",
+        "name": "Flutter"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/kotlin.png",
+        "name": "Kotlin"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/java.png",
+        "name": "Java"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/swift.png",
+        "name": "Swift"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/ionic.png",
+        "name": "Ionic"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "logo": "/assets/images/serviceSlider/desktop.png",
+    "title": "Web Development",
+    "items": [
+      {
+        "icon": "/assets/images/serviceSlider/react-native.png",
+        "name": "PHP"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/flutter.png",
+        "name": "WordPress"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/kotlin.png",
+        "name": "Cake PHP"
+      },
+      {
+        "icon": "/assets/images/serviceSlider/swift.png",
+        "name": "Laravel"
+      }
+    ]
+  }
+]

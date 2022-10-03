@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "tabName": "Mobile",
+    "items": [
+      { "img": "apple.png", "title": "IOS" },
+      { "img": "flutter.png", "title": "Flutter" },
+      { "img": "android.png", "title": "Android" },
+      { "img": "kotlin.png", "title": "Kotlin" },
+      { "img": "Dart.png", "title": "Dart" },
+      { "img": "swift.png", "title": "Swift" },
+      { "img": "react-native.png", "title": "React-Native" }
+    ]
+  },
+  {
+    "id": 1,
+    "tabName": "Frontend",
+    "items": [
+      { "img": "next.png", "title": "Next JS" },
+      { "img": "vue.png", "title": "Vue JS" },
+      { "img": "angular.png", "title": "Angular Js" },
+      { "img": "js.png", "title": "java-script" },
+      { "img": "react.png", "title": "React JS" }
+    ]
+  },
+  {
+    "id": 2,
+    "tabName": "Backend",
+    "items": [
+      { "img": "php.png", "title": "PHP" },
+      { "img": "nodejs.png", "title": "Node JS" },
+      { "img": "django.png", "title": "Django" },
+      { "img": "dot-net.png", "title": "Dot Net" },
+      { "img": "c-sharpe.png", "title": "C sharp" },
+      { "img": "yii.png", "title": "Yii" },
+      { "img": "laravel.png", "title": "Laravel" },
+      { "img": "graphql.png", "title": "GrapQL API" },
+      { "img": "codignitor.png", "title": "Codeigniter" }
+    ]
+  },
+  {
+    "id": 3,
+    "tabName": "CMS",
+    "items": [
+      { "img": "wp.png", "title": "Wordpress" },
+      { "img": "prestashop.png", "title": "prestashop" },
+      { "img": "shopify.png", "title": "Shopify" },
+      { "img": "wix.png", "title": "Wix" },
+      { "img": "joomla.png", "title": "Joomla" }
+    ]
+  }
+]

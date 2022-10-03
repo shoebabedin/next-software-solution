@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "title": "Mobile App Development",
+    "p1": "Get Top-score, Extensively, Innovative Mobile App Solution By Us.",
+    "p2": "This world is associated with portable applications. In this truly nerd period, we can assist you with making some fantastic versatile application for your business and new companies. We are the main tailor made versatile application advancement organization, serving best applications across the globe.",
+    "p3": "We have top portable application engineers who are exceptionally talented and refreshed with the most recent innovation pattern. Our group works with the worldwide firms to change perceived thoughts into dazzling and creative versatile Apps. We have rich experience and inventiveness in creating staggering versatile applications for various clients over the world.",
+    "img": "mobile-app-development.png"
+  },
+  {
+    "id": 1,
+    "title": "Web Development",
+    "p1": "A Pioneer To The Emerging And Effective Web And CMS Development proficiency and upgrades it.",
+    "p2": "Everything can be framed and refreshed with a site. Hyperlink InfoSystem comprehends the necessities and specialties wonderful site and CMS frameworks for new companies or organizations. We are the main tailor-made web advancement organization, conveying the best web and CMS arrangements across the globe.",
+    "p3": "Our exceptionally talented designers have capable mastery in the most recent innovation and patterns. We worked with worldwide firms to change perceived thoughts into staggering and imaginative sites. We have rich experience and innovativeness in delivering exceptional sites and CMS improvement for various clients around the world. ",
+    "img": "web-developmetn.png"
+  },
+  {
+    "id": 2,
+    "title": "Ecommerce Development",
+    "p1": "A Pioneer To The Emerging And Effective Web And CMS Development proficiency and upgrades it.",
+    "p2": "It is a straightforward technique for buying and selling exchanges of items based online over the web. The E-Commerce site is very famous and of late becoming fundamental for the business.Internet business is the ideal method for satisfying your requirements for advancements. The scale may be different for everybody, except the outcome generally ends up being productive.",
+    "p3": "Web based business sites change organizations and assist them with extending for the development of the organization. Coordinate your necessities and inclinations with E-Commerce sites. All tasks designated at the creation, the executives, and advancement of a web store are covered under web based business web composition and improvement. With a single tick, the activity online can act in E-Commerce improvement. The UX/UI is the E-Commerce site's key element, and enormous choices draw in clients and clients.",
+    "img": "ecommerce developmetn.png"
+  },
+  {
+    "id": 3,
+    "title": "Game Development",
+    "p1": "A Pioneer To The Emerging And Effective Web And CMS Development proficiency and upgrades it.",
+    "p2": "It is a straightforward technique for buying and selling exchanges of items based online over the web. The E-Commerce site is very famous and of late becoming fundamental for the business.Internet business is the ideal method for satisfying your requirements for advancements. The scale may be different for everybody, except the outcome generally ends up being productive.",
+    "p3": "Web based business sites change organizations and assist them with extending for the development of the organization. Coordinate your necessities and inclinations with E-Commerce sites. All tasks designated at the creation, the executives, and advancement of a web store are covered under web based business web composition and improvement. With a single tick, the activity online can act in E-Commerce improvement. The UX/UI is the E-Commerce site's key element, and enormous choices draw in clients and clients.",
+    "img": "game-development.png"
+  }
+]
