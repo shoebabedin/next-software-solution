@@ -17,7 +17,9 @@ const TechnologyTabs = (props) => {
             {head ? (
               <h2 className="text-primary text-center mb-5">{head}</h2>
             ) : (
-              <h2 className="text-primary text-center mb-5">Technology we used</h2>
+              <h2 className="text-primary text-center mb-5">
+                Technology we used
+              </h2>
             )}
 
             {/* <!-- tabs --> */}
@@ -27,7 +29,9 @@ const TechnologyTabs = (props) => {
                   tabData?.map((item) => (
                     <li key={item.id} className="nav-item" role="presentation">
                       <button
-                        className={`nav-link ${item.id === tabs.id && "active"}`}
+                        className={`nav-link ${
+                          item.id === tabs.id && "active"
+                        }`}
                         onClick={() => handleClick(item)}
                       >
                         {item.tabName}
